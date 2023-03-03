@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0,Boing - ctaTV
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
+#EXTINF:0,Super ! - ctaTV
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
+#EXTINF:0,Asahi TV - ctaTV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+#EXTINF:0,Rai Premium HD - ctaTV
+https://streamcdnr10-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raipremium1/hls/playlist_ma.m3u8?baseuri=%2Fraipremium1%2Fhls%2F&tstart=0&tend=1677787233&tof=86400&tk2=a971f51dacc6037e77f1e59b791e1a7c036d21f5962a454a294b465fd91affdd
+#EXTINF:0,Mediaset HD - ctaTV
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+#EXTINF:0,Rai Storia HD - ctaTV
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
+#EXTINF:0,Radio Capital - ctaTV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/master_ma.m3u8
+#EXTINF:0,Virgin Radio - ctaTV
+https://icy.unitedradio.it/Virgin.mp3
+#EXTINF:0,La 5 - ctaTV
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+#EXTINF:0,Cartoonito - ctaTV
+https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
